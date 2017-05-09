@@ -1,0 +1,30 @@
+{
+  "name": "prettierrc",
+  "version": "0.0.0",
+  "description": "config-based prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/obartra/prettierrc"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/obartra/prettierrc/issues"
+  },
+  "bin": {
+    "prettierrc": "index.sh"
+  },
+  "author": "Oscar Bartra",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "prettier": "^1.3.1",
+    "rc": "^1.2.1"
+  }
+}

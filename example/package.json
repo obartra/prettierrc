@@ -1,0 +1,12 @@
+{
+  "name": "prettierrc-example",
+  "version": "1.0.0",
+  "description": "Example usage of prettierrc",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/obartra/prettierrc"
+  },
+  "author": "Oscar Bartra",
+  "license": "MIT"
+}
